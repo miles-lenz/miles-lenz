@@ -3,6 +3,7 @@
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miles@lenz-be.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miles-lenz)
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=icloud&logoColor=white)](https://mileslenz.de)
 
 Welcome to my GitHub! I am a Computer Science Master's student at Goethe University Frankfurt, specializing in Artificial Intelligence. <br>
 Here is a quick overview of my background:
@@ -36,3 +37,5 @@ Here is a quick overview of my background:
 **GitHub Stats**
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=miles-lenz&theme=dark)](https://git.io/streak-stats)
+
+![Profile Views](https://komarev.com/ghpvc/?username=miles-lenz&color=orange&style=for-the-badge)
