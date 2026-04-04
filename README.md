@@ -1,5 +1,5 @@
 # Hi there, I'm Miles! 👋🏼
-**Master's student in Computer Science | Focus on AI | Open to working student positions**
+**Master's student in Computer Science | Focus on AI | Working Student in Data Science @ KfW IPEX-Bank**
 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miles@lenz-be.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/miles-lenz)
@@ -7,7 +7,7 @@
 
 Welcome to my GitHub! I am a Computer Science Master's student at Goethe University Frankfurt, specializing in Artificial Intelligence. <br>
 Here is a quick overview of my background:
-- **Current Focus:** I am currently focusing on my Master's modules and am actively looking for **working student positions** in the AI space.
+- **Current Focus:** Alongside my Master's, I am a **Working Student in Data Science @ KfW IPEX-Bank**, contributing to enterprise AI solutions using LLMs, RAG, and agentic workflows on Azure.
 - **Research & Simulation:** As a Student Research Assistant at FIAS, I worked at the intersection of computational neuroscience and reinforcement learning. My Bachelor's thesis on simulating infant body growth in MuJoCo actually evolved into a co-authored publication that recently won an award. Check out the details below!
 - **Applied GenAI:** I bring practical industry experience from my time at Continental, where I developed agentic workflows using LangGraph and optimized chatbot systems using RAG and Azure AI Search.
 - **Off the screen:** When I am not writing code or studying, you can often find me bouldering or playing chess! ♟️🧗‍♂️
